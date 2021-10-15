@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\NotepadClone-master\bin\Debug\NotepadClone.exe.config
+C:\Users\Administrator\Desktop\NotepadClone-master\bin\Debug\NotepadClone.exe
+C:\Users\Administrator\Desktop\NotepadClone-master\bin\Debug\NotepadClone.pdb
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.About.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\FileDialogExtenders.FileDialogControlBase.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.FindDialog.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.GoToLinePrompt.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.Main.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.SaveOpenDialog.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.PageSetupHeaderFooter.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.ReplaceDialog.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.SaveChangesPrompt.resources
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.exe
+C:\Users\Administrator\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.pdb
